@@ -1,2 +1,2 @@
 # Environment
-be kind to environment!
+Be kind to environment!
